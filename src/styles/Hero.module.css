@@ -1,0 +1,10 @@
+.hero{
+    height: 100vh;
+}
+
+.hero__title{
+    color: #fff;
+    margin-top: 250px;
+    font-size: 6rem;
+
+}

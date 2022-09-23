@@ -1,0 +1,20 @@
+.advantages{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.advantages__title{
+    margin-top: 4rem;
+}
+.advantages__list{}
+.advantages__item{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1600px;
+    margin-top: 4rem;
+}
+.advantages__text{
+    max-width: 450px;
+}
+.advantages__image{}
